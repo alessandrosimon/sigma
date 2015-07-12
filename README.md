@@ -1,4 +1,4 @@
-# ![sigma logo](http://i.imgur.com/vW5Y3Uy.png) sigma
+sigma
 An error analysis calculator.
 
 ## Example
