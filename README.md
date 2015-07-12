@@ -1,4 +1,4 @@
-sigma
+## sigma
 An error analysis calculator.
 
 ## Example
